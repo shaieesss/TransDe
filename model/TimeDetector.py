@@ -54,7 +54,7 @@ class Encoder(nn.Module):
 
 class TimeDetector(nn.Module):
     def __init__(self, win_size, enc_in, c_out, n_heads=1, d_model=128, e_layers=2, patch_size=[3,5,7], channel=55, dropout=0.0, activation='gelu', output_attention=True, lamb=6400  ):
-        super(DCdetector, self).__init__()
+        super(TimeDetector, self).__init__()
         self.output_attention = output_attention
         self.patch_size = patch_size
         self.channel = channel
