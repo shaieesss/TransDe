@@ -5,4 +5,4 @@ the detailed requirements and datasets can be seen in "https://github.com/thuml/
 # To run
 Codes are in run.sh
 
-## Welcome anyone who is interested in research cooperation.
+## Welcome any contact of ones who are interested in research cooperations.
