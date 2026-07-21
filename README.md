@@ -1,5 +1,4 @@
-The official implement of Decomposition-based multi-scale transformer framework for time series anomaly detection
-
+The official implement of Decomposition-based multi-scale transformer framework for time series anomaly detection, which is published in *Neural Network*.
 # Introduction
 the detailed requirements and datasets can be seen in "https://github.com/thuml/Anomaly-Transformer?tab=readme-ov-file"
 # To run
